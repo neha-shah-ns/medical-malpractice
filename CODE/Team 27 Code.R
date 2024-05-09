@@ -1,7 +1,7 @@
 rm(list = ls())
 
 # Read the data
-med <- read.table(file = "C://Users//nehas//Documents//GT 2023//ISYE 7406 DSML//Project//archive//medicalmalpractice.csv", sep=",", header=TRUE)
+med <- read.table(file = "C://Users//...//medicalmalpractice.csv", sep=",", header=TRUE)
 summary(med)
 
 # check for missing values
